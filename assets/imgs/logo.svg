@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="0" width="0">
+    <defs>
+    <symbol id="logo" width="297mm" height="210mm" version="1.1" viewBox="0 0 297 210">
+  <g transform="translate(0,-87)">
+    <g transform="translate(-4.5357 6.8036)">
+      <circle cx="154.97" cy="188.9" r="84.667" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="15"/>
+      <text x="69.744713" y="286.41675" fill="#ffffff" font-family="sans-serif" font-size="270.86px" letter-spacing="0px" stroke-width=".26458px" word-spacing="0px" style="line-height:169.28866577px" xml:space="preserve"><tspan x="69.744713" y="286.41675" fill="#ffffff" stroke-width=".26458px">R</tspan></text>
+    </g>
+  </g>
+  </symbol>
+</defs>
+</svg>
